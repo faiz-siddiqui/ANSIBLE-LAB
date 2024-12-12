@@ -1,0 +1,5 @@
+- inventory hostname name = hostname
+- total memory in MB = memory
+- BIOS verison = biosversion
+- size of disk device vda = vdasize
+- size of disk device vdb = vdbsize
