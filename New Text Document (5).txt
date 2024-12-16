@@ -1,32 +1,4 @@
-Skip to content
-Featured links
-Support
-Documentation
-Console
-Developers
-Start a trial
-All Red Hat
-Products
-Solutions
-Training & services
-Resources
-Partners
-About
-
-Search
-
-For youNew
-
-Contact us
-
-English
-
-
-Policies and Guidelines
-Red Hat Training Policies
-Last Updated: January 22, 2024
-
-Table of Contents
+ of Contents
 General Terms and Conditions
 Open Enrollment Training
 Onsite Training
@@ -51,7 +23,7 @@ Modifications and Updates to the Training Policies: Red Hat reserves the right, 
 
 Cancellation and Rescheduling of Classes by Red Hat: Red Hat may cancel or reschedule a class, including a component of a Bundle, at its discretion. In the event of such cancellation, Red Hat will use commercially reasonable efforts to provide notice of such cancellation fourteen (14) calendar days prior to the class start date. Client will not be charged for the Red Hat cancellation or rescheduling. Red Hat is not liable for expenses incurred for Client’s travel expenses or hotel accommodations in the event that Red Hat cancels or reschedules an event.
 
-Requirements: Client is responsible for ensuring it meets the requirements of the event in which it is enrolling. Red Hat offers skills assessments that help guide Client in enrolling in the proper course for their background. Additionally, Client can contact its local Red Hat Training sales representative for further guidance.
+Requirements: Client is responsible for ensuring it meets the requirements of the event in which it is enrolling. Red Hat offers skills assessments that help guide Client in enrolling in the proper course for their background. Additionally, Client can contact its local Red Hatnnnnnn Training sales representative for further guidance.
 
 Right of Dismissal: In order to maintain a classroom environment that is conducive to learning, Red Hat reserves the right to dismiss a participant from any Red Hat training or exam event. A participant who harasses other participant(s) or instructor(s), or who in Red Hat's sole judgment acts inappropriately or disruptively during class, may be dismissed from the event and may not return to the premises. In case of such dismissal, Red Hat’s liability will be limited to the refunding of fees paid by Client for the course or exam, and Red Hat shall not be responsible for any consequential loss or inconvenience arising whatsoever.
 
